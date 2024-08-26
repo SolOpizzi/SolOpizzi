@@ -1,4 +1,3 @@
-## Hi there 
 
 <!--
 **SolOpizzi/SolOpizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,10 +22,28 @@ Here are some ideas to get you started:
 
 <img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+- 🌱 I’m currently learning Web Development and other programming languages
+
+- 📫 How to reach me **sol.opizzi98@gmail.com**
+
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+
+
+
 
 
 
 <h1 align="center">Hi 👋, I'm Sol <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3>
 
 - 🔭 I’m currently working on my **Python Course**
