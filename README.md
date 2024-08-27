@@ -16,42 +16,25 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Sol</h1>
-<h3 align="center">Student at MITS, Gwalior🌟</h3>
+<h3 align="center">Student at MITS, Gwalior🌟I'm a Computer Science Engineering Student (Graduating in 2023)</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-- 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts.
-- :technologist: I love using Software as a solution for every Problem.
-- :nerd_face: Always learning new things.
-- 💬 Ask me about anything, I love to answer!
-- :thinking: I’m currently open for a new job opportunity.
-- 📫 How to reach me **sol.opizzi98@gmail.com**
-- Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sol-opizzi/) 🏆.
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-- I'm a Computer Science Engineering Student (Graduating in 2023).
-- I do VFX Editing (After Effects, Cinema 4d, Blender) in my Free Time.
-- I love to solve Data Structure and Algorithm Problems with C++.
+📚 &nbsp;I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco.\
+🌟 &nbsp;Main languages: Python, JavaScript.\
+🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
+📝 &nbsp;I have a strong interest in Data Science and Artificial Intelligence.\
+:technologist: &nbsp;I love using Software as a solution for every Problem.\
+:nerd_face: &nbsp;Always learning new things.\
+:thinking: &nbsp;I’m currently open for a new job opportunity.\
+📫 &nbsp;How to reach me **sol.opizzi98@gmail.com**.\
+📫 &nbsp;Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sol-opizzi/) 🏆.\
+👨‍💻 &nbsp; 
 
 
-
-
-
-<hr>
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
 
 
 
