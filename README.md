@@ -20,46 +20,24 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 
-📚 &nbsp;I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco.\
-🌟 &nbsp;Main languages: Python, JavaScript.\
+📚 &nbsp;I have a Master Degree in Systems at University of Buenos Aires.\
+🌟 &nbsp;Main languages: C#.\
 🌱 &nbsp;I’m currently learning Web Development and other programming languages.\
 📝 &nbsp;I have a strong interest in Data Science and Artificial Intelligence.\
 :technologist: &nbsp;I love using Software as a solution for every Problem.\
 :nerd_face: &nbsp;Always learning new things.\
 :thinking: &nbsp;I’m currently open for a new job opportunity.\
 📫 &nbsp;How to reach me **sol.opizzi98@gmail.com**.\
-📫 &nbsp;Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sol-opizzi/) 🏆.\
-👨‍💻 &nbsp; 
-
-
-
-
-
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
-
+👨‍💻 &nbsp;Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sol-opizzi/) 🏆.\
+ 
 - :high_brightness: <b>Special quality:</b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiasts <br>
         :beginner: Web Designing <br>
         :beginner: Strategy <br>
-
-
-<br>
-Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.
-I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-<br>
 
 
 <br />
@@ -69,9 +47,6 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
-
-
-
 
 
 <h2>🛠️ | Languages, Frameworks, and Tools </h2>
@@ -102,8 +77,6 @@ Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-t
     </tr>
 </table>
 <br>
-
-
 
 
 
