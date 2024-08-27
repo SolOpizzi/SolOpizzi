@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,vscode,net,github,c#,&perline=10"  />
 </p>
 <br />
 
@@ -216,7 +216,6 @@ __Check out my GitHub repository:__
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
 
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
