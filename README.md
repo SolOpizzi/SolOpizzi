@@ -73,21 +73,21 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Final Proyect</h3>
+<h3 align="center">Consulting</h3>
 <div align="center">
 <a href="https://seventhsensesol.wixsite.com/seventh-sense" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGbsR0mh0prIQ/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1724541889614?e=1725458400&v=beta&t=18r6MjIjQrC7P4W59QOwTW65LwP7smTgKFrW7tNvCe4" width="400" alt="??"></a>
 <p>
 <a href="https://seventhsensesol.wixsite.com/seventh-sense" target="_blank">
 <img src="https://img.shields.io/badge/WEBSITE-ff9?style=for-the-badge&logo=wix&logoColor=black">
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>The purpose of the project was to offer a comprehensive analysis of the current situation of the selected business case from the perspective of an IT consultancy, identifying its main problems, with a future proposal for technological solutions that improve its efficiency and operation.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Sistema integral</h3>
 <div align="center">                                       
 <a href="https://github.com/SolOpizzi/Proyecto-CAI" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQHGXcfwWCoAfw/articleshare-shrink_800/articleshare-shrink_800/0/1724645842320?e=1725458400&v=beta&t=3YdbaJh2ixl5UrpCoBS6evfL0DpNRf2GBkGJ1zLZsGk" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -95,7 +95,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>The work consists of the development of an integrated system that contemplates all the activities of the proposed company and provides immediate management and accounting information.
+The general design considers all the modules proposed by the company for the purpose of selling tourist packages.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
