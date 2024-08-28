@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 📚 I have a Bachelor's Degree in Computer Science with Business Studies from the Universidad de Buenos Aires.\
-📚 I have a Master Degree in Information Systems from the Universidad de Buenos Aires.\
 🌱 I’m currently learning Web Development and other programming languages.\
 🌟 Main languages: C#.\
 📝 I have a strong interest in Data Science and Artificial Intelligence.\
@@ -32,9 +31,9 @@ Here are some ideas to get you started:
 :thinking: I'm a curious and challenge oriented person looking forward to kick-off my career.\
 📫 How to reach me **sol.opizzi98@gmail.com**.
 
- :high_brightness: <b>Special quality:</b> <br>
+ :high_brightness: <b>Special Qualities: </b> <br>
         :beginner: Problem Solving <br>
-        :beginner: Tech Enthusiasts <br>
+        :beginner: Tech Enthusiast <br>
         :beginner: Web Designing <br>
         :beginner: Strategy <br>
 
