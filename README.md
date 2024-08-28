@@ -34,8 +34,8 @@ Here are some ideas to get you started:
  :high_brightness: <b>Special Qualities: </b> <br>
         :beginner: Problem Solving <br>
         :beginner: Tech Enthusiast <br>
-        :beginner: Web Designing <br>
-        :beginner: Strategy <br>
+        :beginner: Analytic Reasoning <br>
+        :beginner: Proactiveness <br>
 
 
 
