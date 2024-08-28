@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 📚 I have a Bachelor's Degree in Computer Science with Business Studies from the Universidad de Buenos Aires.\
-🌱 I’m currently learning Web Development and other programming languages.\
+🌱 Currently learning Web Development and other programming languages.\
 🌟 Main languages: C#.\
 📝 I have a strong interest in Data Science and Artificial Intelligence.\
 :technologist: Always learning new things.\
 :nerd_face: \
 :thinking: I'm a curious and challenge oriented person looking forward to kick-off my career.\
-📫 How to reach me **sol.opizzi98@gmail.com**.
+📫 Reach me at **sol.opizzi98@gmail.com**.
 
  :high_brightness: <b>Special Qualities: </b> <br>
         :beginner: Problem Solving <br>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h2>🛠️ | Languages, Frameworks and Tools </h2>
 <br />
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=cs,dotnet,r,latex,vscode,visualstudio,github,premiere,discord&perline=10"   />
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,dotnet,r,latex,html,vscode,visualstudio,github,premiere,discord&perline=10"   />
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Consulting</h3>
+<h3 align="center">Sevent Sense Solutions</h3>
 <div align="center">
 <a href="https://seventhsensesol.wixsite.com/seventh-sense" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQGbsR0mh0prIQ/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1724541889614?e=1725458400&v=beta&t=18r6MjIjQrC7P4W59QOwTW65LwP7smTgKFrW7tNvCe4" width="400" alt="??"></a>
 <p>
@@ -85,13 +85,13 @@ Here are some ideas to get you started:
 </td>
 
 <td width="50%">
-               <br>
+<br>
 <h3 align="center">Sistema integral</h3>
 <div align="center">                                       
 <a href="https://github.com/SolOpizzi/Proyecto-CAI" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQHGXcfwWCoAfw/articleshare-shrink_800/articleshare-shrink_800/0/1724645842320?e=1725458400&v=beta&t=3YdbaJh2ixl5UrpCoBS6evfL0DpNRf2GBkGJ1zLZsGk" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/SolOpizzi/Proyecto-CAI" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
 </p>The project is about the development of an integrated system that contemplates all the activities of the proposed company and provides immediate management and accounting information.
@@ -100,15 +100,6 @@ The general design considers all the modules proposed by the company for the pur
 </table>                                                                                 
 </div>
 <br>
-
-
-
-
-
-
-
-
-
 
 
 
