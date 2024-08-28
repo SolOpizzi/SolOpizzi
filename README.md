@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Web Development and other programming languages.\
 🌟 Main languages: C#.\
 📝 I have a strong interest in Data Science and Artificial Intelligence.\
-:technologist:
-:nerd_face: Always learning new things.\
+:technologist: Always learning new things.\
+:nerd_face: \
 :thinking: I'm a curious and challenge oriented person looking forward to kick-off my career.\
 📫 How to reach me **sol.opizzi98@gmail.com**.
 
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 <a href="https://seventhsensesol.wixsite.com/seventh-sense" target="_blank">
 <img src="https://img.shields.io/badge/WEBSITE-ff9?style=for-the-badge&logo=wix&logoColor=black">
 </p>
-<p>The purpose of the project was to offer a comprehensive analysis of the current situation of the selected business case from the perspective of an IT consultancy, identifying its main problems, with a future proposal for technological solutions that improve its efficiency and operation.</p>
+<p>The purpose of the project was to offer a comprehensive analysis of the current situation of the selected business case from the perspective of an IT consultant, identifying their main problems and proposing a future technological solution that improves its efficiency and operation.</p>
 </div>
                                                                                       
 </td>
@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>The work consists of the development of an integrated system that contemplates all the activities of the proposed company and provides immediate management and accounting information.
+</p>The project is about the development of an integrated system that contemplates all the activities of the proposed company and provides immediate management and accounting information.
 The general design considers all the modules proposed by the company for the purpose of selling tourist packages.</p>
 </div>                                                             
 </table>                                                                                 
