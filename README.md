@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Sol</h1>
-<h3 align="center">Student at MITS, Gwalior🌟I'm a Computer Science Engineering Student (Graduating in 2023)</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">I'm Sol🌟</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 📚 I have a Bachelor's Degree in Computer Science with Business Studies from the Universidad de Buenos Aires.\
 📚 I have a Master Degree in Information Systems from the Universidad de Buenos Aires.\
-🌟 Main languages: C#.\
 🌱 I’m currently learning Web Development and other programming languages.\
+🌟 Main languages: C#.\
 📝 I have a strong interest in Data Science and Artificial Intelligence.\
-:technologist: I love using Software as a solution for every Problem.\
+:technologist:
 :nerd_face: Always learning new things.\
-:thinking: I’m currently open for a new job opportunity.\
+:thinking: I'm a curious and challenge oriented person looking forward to kick-off my career.\
 📫 How to reach me **sol.opizzi98@gmail.com**.
 
  :high_brightness: <b>Special quality:</b> <br>
