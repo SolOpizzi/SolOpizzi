@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>🛠️ | Check out my Proyects: </h2>
+<h2>🔭 | Check out my Proyects: </h2>
 <table>
 <tr>
 <td width="50%">
