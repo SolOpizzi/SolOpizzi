@@ -44,7 +44,8 @@ Here are some ideas to get you started:
 <h2>🛠️ | Languages, Frameworks and Tools </h2>
 <br />
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=cs,dotnet,r,latex,html,vscode,visualstudio,github,premiere,discord&perline=10"   />
+<img width="500px"  src="https://skillicons.dev/icons?i=cs,dotnet,r,cpp,latex,html,vscode,visualstudio,premiere,discord&perline=10"   />
+ 
 </p>
 <br />
 
