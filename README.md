@@ -23,12 +23,11 @@ Here are some ideas to get you started:
 <img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
 
 📚 I have a Bachelor's Degree in Computer Science with Business Studies from the Universidad de Buenos Aires.\
-🌱 Currently learning Web Development and other programming languages.\
+🌱 Focused on improving my Python skills.\
 🌟 Main languages: C#.\
 📝 I have a strong interest in Data Science and Artificial Intelligence.\
-:technologist: Always learning new things.\
-:nerd_face: \
-:thinking: I'm a curious and challenge oriented person looking forward to kick-off my career.\
+:nerd_face: Always learning new things.\
+🔎 I'm a curious and challenge oriented person looking forward to kick-off my career.\
 📫 Reach me at **sol.opizzi98@gmail.com**.
 
  :high_brightness: <b>Special Qualities: </b> <br>
@@ -68,7 +67,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>🔭 | Check out my Proyects: </h2>
+<h2>🔭 | Check out my Projects: </h2>
 <table>
 <tr>
 <td width="50%">
@@ -86,7 +85,7 @@ Here are some ideas to get you started:
 
 <td width="50%">
 <br>
-<h3 align="center">Sistema integral</h3>
+<h3 align="center">Promotion and management of tourism packages</h3>
 <div align="center">                                       
 <a href="https://github.com/SolOpizzi/Proyecto-CAI" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQHGXcfwWCoAfw/articleshare-shrink_800/articleshare-shrink_800/0/1724645842320?e=1725458400&v=beta&t=3YdbaJh2ixl5UrpCoBS6evfL0DpNRf2GBkGJ1zLZsGk" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
@@ -112,7 +111,7 @@ The general design considers all the modules proposed by the company for the pur
 
 <!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect with me 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/sol-opizzi/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
