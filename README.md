@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <td width="50%">
 <br>
-<h3 align="center">Promotion and management of tourism packages</h3>
+<h3 align="center">Prototype</h3>
 <div align="center">                                       
 <a href="https://github.com/SolOpizzi/Proyecto-CAI" target="_blank"><img src="https://media.licdn.com/dms/image/sync/v2/D4D27AQHGXcfwWCoAfw/articleshare-shrink_800/articleshare-shrink_800/0/1724645842320?e=1725458400&v=beta&t=3YdbaJh2ixl5UrpCoBS6evfL0DpNRf2GBkGJ1zLZsGk" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
